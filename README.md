@@ -15,7 +15,7 @@
 </ul>
 
 # Visualization
-<img src = "Instacart Dashboard.png"></img>
+<img src = "Instacart Market Basket Analysis Dashboard.png"></img>
 
 ### Dashboard Components
 -
