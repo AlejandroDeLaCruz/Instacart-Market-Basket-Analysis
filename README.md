@@ -37,10 +37,10 @@
 - A distribution on the number of items a customer tends to buy per order
 
 #### Treemap of Aisles and Products:
-- A treemap displaying what 
+- A treemap visualizing customer product purchases within a designated store aisle
 
 #### Top Products per Group:
--
+- A bar chart showcasing the top products purchased by different customer segments, including Early Birds, Evening Shoppers, and more
 
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/InstacartMarketBasketAnalysis_17122561477850/InstacartMarketBasketAnalysis" rel="unfollow">Instacart Market Basket Analysis</a>
