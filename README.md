@@ -55,7 +55,7 @@ Now, we will dive into the analysis to provide insights into the specific questi
   <li>The busiest days throughout the week tend to be Saturday and Sunday where users use the app to purchase their groceries</li>
   <li>Based from the <b>Days Since Prior Order</b>, we can likely say that it would take the customer/user about a week (7 days) or up to a month (30 days) before the customer makes their next purchase on the app</li>
   <li>The best selling products on the app that customers would typically buy would be bananas, organic bananas, and organic strawberries</li>
-  <li>Based from the <b>Number of Items Purchased per Order</b> most of the customer would typically buy 3-8 for each other the customer makes</li>
-  <li></li>
-  <li></li>
+  <li>Based from the <b>Number of Items Purchased per Order</b> most of the customer would typically buy 3-8 items for each order the customer makes</li>
+  <li>In the treemap, we could see that the customers would tend to order from fresh fruits, fresh vegetables, and packaged veggies and fruits aisles</li>
+  <li><b>Refer to visualization</b>, but in the <b>Top Products per Group</b> chart, we can see that these groups of people tend to buy those certain products at certain times of the day of the week</li>
 </ol>
