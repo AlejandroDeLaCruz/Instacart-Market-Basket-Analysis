@@ -48,3 +48,14 @@ These visualizations are created in Tableau and can be found here: <a href = "ht
 
 # Analysis
 
+Now, we will dive into the detailed analysis to provide insights into the specific questions our stakeholder is eager to understand.
+
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
