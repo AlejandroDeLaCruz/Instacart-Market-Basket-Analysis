@@ -22,21 +22,28 @@
 ### Dashboard Components
 
 #### Busiest Hours:
--
+- A distribution of Instacart users utilizing the app to make grocery orders at certains time of the day throughout the week
 
 #### Busiest Days of the Week:
--
+-A bar chart of Instacart users utilizing the app to make grocery orders at certains time of the day 
 
 #### Days Since Prior Order:
--
+- Displays a histogram chart of how long after a customer's previous order until they order again
+
 #### Best Selling Products:
--
+- A bar chart displaying the best selling products in the app
+
 #### Number of Items Purchased per Order:
--
+- A distribution on the number of items a customer tends to buy per order
+
 #### Treemap of Aisles and Products:
--
+- A treemap displaying what 
+
 #### Top Products per Group:
 -
 
 
 These visualizations are created in Tableau and can be found here: <a href = "https://public.tableau.com/app/profile/alejandro.de.la.cruz5286/viz/InstacartMarketBasketAnalysis_17122561477850/InstacartMarketBasketAnalysis" rel="unfollow">Instacart Market Basket Analysis</a>
+
+# Analysis
+
