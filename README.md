@@ -20,7 +20,6 @@
 <img src = "Instacart Dashboard.png"></img>
 
 ### Dashboard Components
--
 
 #### Busiest Hours:
 -
