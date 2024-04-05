@@ -8,8 +8,8 @@ In this scenario, our stakeholder is keen to understand customer behavior regard
 
 ### Questions
 <ul>
-  <li>What are the busiest of times of the week that Instacart users use the app?</li>
-  <li>What are the typical busiest hours for each day?</li>
+  <li>What are the busiest of times of the week?</li>
+  <li>What days tend to be the busiest throughout the week?</li>
   <li>How long after their previous order, do customers order again? And when are customers most likely to order again?</li>
   <li>What are the Top 3 best selling products?</li>
   <li>How many items do customers most often order?</li>
@@ -51,11 +51,11 @@ These visualizations are created in Tableau and can be found here: <a href = "ht
 Now, we will dive into the analysis to provide insights into the specific questions our stakeholder is eager to understand.
 
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>The busiest hours are typically from 8:00 AM to 6:00 PM</li>
+  <li>The busiest days throughout the week tend to be Saturday and Sunday where users use the app to purchase their groceries</li>
+  <li>Based from the <b>Days Since Prior Order</b>, we can likely say that it would take the customer/user about a week (7 days) or up to a month (30 days) before the customer makes their next purchase on the app</li>
+  <li>The best selling products on the app that customers would typically buy would be bananas, organic bananas, and organic strawberries</li>
+  <li>Based from the <b>Number of Items Purchased per Order</b> most of the customer would typically buy 3-8 for each other the customer makes</li>
   <li></li>
   <li></li>
 </ol>
