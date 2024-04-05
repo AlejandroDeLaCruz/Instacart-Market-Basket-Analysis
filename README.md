@@ -25,7 +25,7 @@
 - A distribution of Instacart users utilizing the app to make grocery orders at certains time of the day throughout the week
 
 #### Busiest Days of the Week:
--A bar chart of Instacart users utilizing the app to make grocery orders at certains time of the day 
+- A bar chart of Instacart users utilizing the app to make grocery orders at certains time of the day 
 
 #### Days Since Prior Order:
 - Displays a histogram chart of how long after a customer's previous order until they order again
